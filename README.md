@@ -1,6 +1,6 @@
 # BillSplitter
 
-I completed my first Python project from Hpyerskill - the JetBrains Academy.
+I completed my first Python project from Hyperskill - the JetBrains Academy.
 
 This is a mini project in which the user can register some friends, including himself, for a party and then split the bill among themselves.
 
